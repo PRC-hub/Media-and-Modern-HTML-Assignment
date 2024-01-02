@@ -1,0 +1,23 @@
+6. List any 5 semantic tags in HTML along with thier descriptions.
+
+Ans:- Here are five semantic tags along with their descriptions:
+
+<header>:
+
+Description: The <header> element represents a container for introductory content or a group of navigational links. It typically includes headings, logos, and navigation menus.
+
+<nav>:
+
+Description: The <nav> element defines a section of navigation links, providing a semantic way to group and identify navigation menus within a page.
+
+<main>:
+
+Description: The <main> element represents the main content of a document. It helps screen readers and other user agents identify and navigate to the primary content area of the page.
+
+article>:
+
+Description: The <article> element represents a self-contained piece of content that could be distributed and reused independently. It is suitable for blog posts, news articles, forum posts, etc.
+
+<footer>:
+
+Description: The <footer> element defines a footer for a section or a page. It typically contains metadata, copyright information, contact details, or links to related resources.

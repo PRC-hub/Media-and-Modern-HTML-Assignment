@@ -1,0 +1,15 @@
+1. List out the features of HTML5.
+
+Ans: Here's a list of some key features of HTML5:
+
+Semantics: HTML5 introduces new semantic elements like <header>, <footer>, <article>, <section>, <nav>, and <figure>, which provide better structure to web documents and enhance search engine optimization.
+
+Multimedia Elements: HTML5 includes native support for audio and video embedding using <audio> and <video> tags. This eliminates the need for third-party plugins like Flash.
+
+Canvas: The <canvas> element allows dynamic rendering of graphics and images directly in the browser, enabling the creation of interactive games, charts, and other visual content.
+
+Offline Web Applications: HTML5 introduces the Application Cache (manifest attribute) and the localStorage feature, enabling web applications to work offline and store data locally.
+
+Responsive Design: HTML5 supports responsive web design through media queries and the introduction of the <picture> and <srcset> elements, allowing developers to optimize content for different devices and screen sizes.
+
+Geolocation API: HTML5 includes the Geolocation API, which enables web applications to access a user's geographical location, facilitating location-aware services.
